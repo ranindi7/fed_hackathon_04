@@ -2,24 +2,24 @@
 
 ## Project Overview
 
-[Provide a brief summary of the project, including the theme and objectives.]
+The project involves creating a user-friendly feedback form designed to collect insights from users. Our main objectives are to ensure that the form is easy to use and visually appealing, while also providing clear feedback to users when they submit their information.
 
 ## Team Members:
 
--   Name 1
--   Name 2
--   Name 3
+-   Ramandeep kaur
+-   Enzo kniepp
+-   Nambukalu Gunasekera
 
 ## Member Contributions:
 
-### Name 1:
+### Ramandeep kaur:
 
--   Worked on [specific elements] of the webpage.
+-   Developed the JavaScript validation for the feedback form. This includes checking user inputs for accuracy and displaying error messages for any mistakes.
 
-### Name 2:
+### Enzo kniepp 2:
 
--   Was responsible for [specific tasks], focusing on [specific HTML elements].
+-   Designed the layout and style of the webpage, ensuring that it is responsive and looks good on both desktop and mobile devices.
 
-### Name 3:
+### Nambukalu Gunasekera 3:
 
--   Handled [specific sections], covering [specific topics or features].
+-   Built the HTML structure of the feedback form, including creating input fields, labels, and sections for error messages to enhance user experience.
