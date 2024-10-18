@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Feedback Form</title>
+</head>
+<body>
+    <form>
+        <h1>Feedback Form</h1>
+        <div id="userName">
+            <label for="userName"> Name: </label>
+            <input type="text" id="userNameInput" name="username"> 
+            <span id="invalidUsername" class="errorMessage"></span>
+        </div>
+
+        <div id="userEmail">
+            <label for="userEmail"> Email: </label>
+            <input type="email" id="userEmailInput" name="userEmail"> 
+            <span id="invalidEmail" class="errorMessage"></span>
+        </div>
+
+        <div id="feedbackText">
+            <label for="feedbackText"> Do you have any feedback for us to improve our services? </label><br>
+            <input type="text" id="userFeedbackInput" name="userFeedback"> 
+            <span id="invalidFeedback" class="errorMessage"></span>
+        </div>
+
+        <input id="submit" type="submit" value="Submit"/>
+    </form>
+</body>
+</html>
